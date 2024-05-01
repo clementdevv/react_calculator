@@ -1,2 +1,5 @@
 # react_calculator
-myy first basic react app
+This is my first basic react app
+
+
+
